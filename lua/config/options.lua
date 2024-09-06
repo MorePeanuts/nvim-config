@@ -9,3 +9,4 @@ opt.expandtab = true
 opt.autoindent = true
 
 opt.shell = "/usr/bin/zsh"
+opt.exrc = true
